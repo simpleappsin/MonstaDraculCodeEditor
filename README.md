@@ -16,3 +16,6 @@
   * With the next version, there will be built-in codes for beginners to look at and learn from. These pre-installed codes are also going to be able to be used by others to save time.
 * Development support.
   * The Code Editor will be supported and updated doesn't matter how many people is using it. The access will be available to any version on my website. ([monstastudios.com](https://monstastudios.com/))
+
+# Why Monsta Dracul Code Editor?
+<p>Once you start using Monsta Dracul Code Editor you will see that you are saving from time and most of your day stays to you. Once you decide to learn CSharp programming language and use Dracul Code Editor you will see that this code editor has something that other editors doesn't have <b>The Knowledge</b>. Learning a programming language is hard and if you are just beginner it is even more harder. With that project I am aiming to help you learning and trying to show what this language is capable of.</p>
