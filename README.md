@@ -16,9 +16,4 @@
   * With the next version, there will be built-in codes for beginners to look at and learn from. These pre-installed codes are also going to be able to be used by others to save time.
 * CSharp compatible code editor.
 * Development support.
-  * The Code Editor will be supported and updated doesn't matter how many people is using it. The access will be available to any version on my website. (monstastudios.com)
-
-# What were the challanges?
-* I took an error message while I was connecting to my Database on cPanel. (Took me 3-4 hours to figure out).
-  * Solved the problem and wrote a Medium Page about it. 
-  * Medium Page: https://medium.com/@simpleapps007/cpanel-mysql-error-how-to-fix-it-fee2f7aa47c0
+  * The Code Editor will be supported and updated doesn't matter how many people is using it. The access will be available to any version on my website. ([monstastudios.com](https://monstastudios.com/))
