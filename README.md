@@ -19,3 +19,6 @@
 
 # Why Monsta Dracul Code Editor?
 <p>Once you start using Monsta Dracul Code Editor you will see that you are saving from time and most of your day stays to you. Once you decide to learn CSharp programming language and use Dracul Code Editor you will see that this code editor has something that other editors doesn't have <b>The Knowledge</b>. Learning a programming language is hard and if you are just beginner it is even more harder. With this project I am aiming to help you learning and trying to show what this language is capable of.</p>
+
+# Install
+<p>To install please visit: ([monstastudios.com](https://monstastudios.com/))</p>
